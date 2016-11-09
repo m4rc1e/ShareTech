@@ -1,12 +1,12 @@
 {
-.appVersion = "924";
+.appVersion = "930";
 classes = (
 {
 code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AE Lslash Oslash OE Eth Thorn Aacute Acircumflex Adieresis Agrave Aring Atilde Ccedilla Eacute Ecircumflex Edieresis Egrave Iacute Icircumflex Idieresis Igrave Ntilde Oacute Ocircumflex Odieresis Ograve Otilde Scaron Uacute Ucircumflex Udieresis Ugrave Yacute Ydieresis Zcaron Omega Delta";
 name = cpsp1;
 }
 );
-copyright = "Copyright 2012 The Share Tech Project Authors (post@carrois.com)";
+copyright = "Copyright 2012 The Share Tech Project Authors (post@carrois.com), with Reserved Font Name 'Share’.";
 customParameters = (
 {
 name = licenseURL;
@@ -29,6 +29,7 @@ value = 1;
 date = "2016-08-31 13:16:12 +0000";
 designer = "Ralph du Carrois";
 designerURL = "http://www.carrois.com";
+disablesAutomaticAlignment = 1;
 familyName = "Share Tech";
 featurePrefixes = (
 {
@@ -16523,7 +16524,6 @@ width = 0;
 unicode = 0000;
 }
 );
-disablesAutomaticAlignment = 1;
 instances = (
 {
 instanceInterpolations = {
